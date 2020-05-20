@@ -1,0 +1,14 @@
+https://github.com/zalandoresearch/fashion-mnist
+
+CONV2D : https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv2D
+
+Maxpooling: https://www.tensorflow.org/api_docs/python/tf/keras/layers/MaxPool2D
+
+Machine Learning Fairness: https://developers.google.com/machine-learning/fairness-overview/
+
+Tensorflow Hub: https://tfhub.dev/
+
+
+Issue analysis links:
+
+https://github.com/tensorflow/tensorflow/issues/36358
