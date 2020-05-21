@@ -11,6 +11,15 @@ Tensorflow Hub: https://tfhub.dev/
 Filtering Convolution: https://lodev.org/cgtutor/filtering.html
 
 
+ML Overview: https://developers.google.com/machine-learning/glossary/#SGD
+
+Stochastic Gradient : https://en.wikipedia.org/wiki/Stochastic_gradient_descent#RMSProp
+
+Loss function: https://gombru.github.io/2018/05/23/cross_entropy_loss/
+
+Mini batch Gradient: http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf
+
+CaliskanEtAl: https://purehost.bath.ac.uk/ws/portalfiles/portal/168480066/CaliskanEtAl_authors_full.pdf
 
 
 Convolution Deeplearning Play list for Detailed:
