@@ -32,8 +32,14 @@ Issue analysis links:
 
 https://github.com/tensorflow/tensorflow/issues/36358
 
-Keras Preprocessing image:
+Keras Preprocessing image: Image Agumentation 
 https://keras.io/api/preprocessing/image/
 
 Sample image source:
 https://pixabay.com/photos/bed-dog-animals-pets-relax-1284238/
+
+Transfer Learning:
+
+https://www.tensorflow.org/tutorials/images/transfer_learning
+
+
