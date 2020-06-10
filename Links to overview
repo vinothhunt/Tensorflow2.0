@@ -8,6 +8,10 @@ Machine Learning Fairness: https://developers.google.com/machine-learning/fairne
 
 Tensorflow Hub: https://tfhub.dev/
 
+tensorflow dataset catalog:
+
+https://github.com/tensorflow/datasets/tree/master/docs/catalog
+
 Filtering Convolution: https://lodev.org/cgtutor/filtering.html
 
 
@@ -20,6 +24,8 @@ Loss function: https://gombru.github.io/2018/05/23/cross_entropy_loss/
 Mini batch Gradient: http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf
 
 CaliskanEtAl: https://purehost.bath.ac.uk/ws/portalfiles/portal/168480066/CaliskanEtAl_authors_full.pdf
+
+
 
 
 Convolution Deeplearning Play list for Detailed:
@@ -45,3 +51,12 @@ https://www.tensorflow.org/tutorials/images/transfer_learning
 Paper Scissor Data Set:
 
 http://www.laurencemoroney.com/rock-paper-scissors-dataset/
+
+IMDB Data set:
+
+https://github.com/tensorflow/datasets/blob/master/docs/catalog/imdb_reviews.md
+
+SubWord Text Encoder:
+https://www.tensorflow.org/datasets/api_docs/python/tfds/features/text/SubwordTextEncoder
+
+
